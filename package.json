@@ -1,0 +1,19 @@
+{
+    "name": "projectfetchapi_cryptodata",
+    "version": "1.0.0",
+    "description": "",
+    "main": "script.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "Coinranking",
+        "API",
+        "JavaScript"
+    ],
+    "author": "J S Walley",
+    "license": "MIT",
+    "dependencies": {
+        "dotenv": "^10.0.0"
+    }
+}
